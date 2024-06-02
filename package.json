@@ -5,6 +5,7 @@
     "main": "dist/window-ai-manager.js",
     "files": [
         "dist",
+        "src",
         "README.md"
     ],
     "type": "module",
