@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.5](https://github.com/binlabs/window-ai-manager/compare/v1.0.4...v1.0.5) (2024-06-02)
+
+
+### Bug Fixes
+
+* **package:** internalize marked dep ([9ff3272](https://github.com/binlabs/window-ai-manager/commit/9ff3272d9e3f11eeba40cde60231cf7afa76e466))
+
 ### [1.0.4](https://github.com/binlabs/window-ai-manager/compare/v1.0.3...v1.0.4) (2024-06-02)
 
 
