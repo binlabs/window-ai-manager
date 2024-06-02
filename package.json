@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/binlabs/chrome-model-manager.git"
+        "url": "git+https://github.com/binlabs/window-ai-manager.git"
     },
     "keywords": [
         "ai",
@@ -21,11 +21,11 @@
         "window.ai"
     ],
     "author": "Kurt Maine <develohost@gmail.com>",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
-        "url": "https://github.com/binlabs/chrome-model-manager/issues"
+        "url": "https://github.com/binlabs/window-ai-manager/issues"
     },
-    "homepage": "https://github.com/binlabs/chrome-model-manager#readme",
+    "homepage": "https://github.com/binlabs/window-ai-manager#readme",
     "devDependencies": {
         "@rollup/plugin-commonjs": "^25.0.8",
         "@rollup/plugin-node-resolve": "^15.2.3",

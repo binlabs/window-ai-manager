@@ -1,5 +1,3 @@
-// ai.d.ts
-
 interface AITextSession {
     prompt(input: string): Promise<string>
     promptStreaming(input: string): AsyncIterableIterator<string>

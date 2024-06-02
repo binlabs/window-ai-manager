@@ -1,5 +1,3 @@
-// polyfill.ts
-
 class MockAITextSession implements AITextSession {
     async prompt(input: string): Promise<string> {
         return `Mock response to: ${input}`

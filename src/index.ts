@@ -1,4 +1,3 @@
-// index.ts
 import { marked } from 'marked'
 import './polyfill'
 
