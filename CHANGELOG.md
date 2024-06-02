@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/binlabs/window-ai-manager/compare/v1.0.3...v1.0.4) (2024-06-02)
+
+
+### Bug Fixes
+
+* **package:** sourcemaps ([e9819e7](https://github.com/binlabs/window-ai-manager/commit/e9819e78f3c3d75175a033abb56f2a90f957fef0))
+
 ### [1.0.3](https://github.com/binlabs/window-ai-manager/compare/v1.0.2...v1.0.3) (2024-06-02)
 
 
