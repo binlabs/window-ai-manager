@@ -1,6 +1,6 @@
 {
     "name": "window-ai-manager",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A library for managing AI text sessions in the browser using the window.ai API. Currently, this library is only compatible with the Chrome browser.",
     "main": "dist/window-ai-manager.js",
     "files": [
