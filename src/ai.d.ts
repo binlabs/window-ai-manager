@@ -2,7 +2,7 @@ interface AITextSession {
     prompt(input: string): Promise<string>
     promptStreaming(input: string): AsyncIterableIterator<string>
     destroy(): void
-    clone(): AITextSession // Not yet implemented
+    clone(): AITextSession
 }
 
 interface AITextSessionOptions {

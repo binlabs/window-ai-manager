@@ -4,7 +4,7 @@ A library for managing AI text sessions in the browser using the `window.ai` API
 
 ## Description
 
-`WindowAIManager` is a JavaScript library (written in Typescript) designed to facilitate interactions with AI text sessions in the browser. It leverages the `window.ai` API, which is available in desktop versions of Chrome starting from version 127.0.6512.0. This library includes functionalities for creating, managing, and destroying AI text sessions, as well as rendering markdown text to HTML.
+`WindowAIManager` is a JavaScript library (written in Typescript) designed to facilitate interactions with AI text sessions in the browser. It leverages the `window.ai` API, which is available in desktop versions of Chrome starting from version 127.0.6512.0. This library includes functionalities for creating, managing, and destroying AI text sessions, as well as rendering markdown to HTML using the `marked` library internally.
 
 ## Installation
 

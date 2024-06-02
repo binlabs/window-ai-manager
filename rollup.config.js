@@ -7,15 +7,16 @@ export default {
     input: 'src/index.ts',
     output: {
         file: 'dist/window-ai-manager.js',
-        format: 'cjs', // CommonJS format
+        format: 'cjs',
         sourcemap: true,
     },
     plugins: [
-        resolve(),
+        resolve({
+            extensions: ['.js', '.ts'],
+        }),
         commonjs(),
         typescript({
             tsconfig: 'tsconfig.json',
         }),
     ],
-    external: ['marked'], // External dependencies to exclude from the bundle
 }
