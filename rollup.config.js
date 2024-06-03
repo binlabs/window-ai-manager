@@ -27,6 +27,9 @@ export default {
         typescript({
             tsconfig: 'tsconfig.json',
         }),
-        terser(),
+        terser({
+            mangle: false,
+            compress: false,
+        }),
     ],
 }
